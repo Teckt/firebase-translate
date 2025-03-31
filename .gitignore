@@ -1,0 +1,5 @@
+*values-*
+*.xml
+*.json
+.env
+.venv
